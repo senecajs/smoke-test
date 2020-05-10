@@ -1,0 +1,14 @@
+{
+  "name": "@seneca/smoke-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/happy.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "seneca": "^3.20.3"
+  }
+}
